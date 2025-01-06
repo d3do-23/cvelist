@@ -66,4 +66,4 @@ public R listData(@RequestParam Map<String, Object> params) {
 
 final poc:
 
-![image-20250106171234465](/mnt/08B1AFFA3DEB5523/alinuxfiles/cvelist/cy-fast/sqli1.assets/image-20250106171234465.png)
+![image-20250106171234465](./sqli1.assets/image-20250106171234465.png)
