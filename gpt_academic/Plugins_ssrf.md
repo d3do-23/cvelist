@@ -56,17 +56,17 @@ The "Download and Translate arXiv Paper Abstract" (`下载arxiv论文翻译摘�
 
 1.  Enter a malicious URL in the input box, such as `http://arxiv.org@127.0.0.1:8080` to target a local service.
 2.  Click the "Download and Translate arXiv Paper Abstract" plugin button.
-<img width="3840" height="1916" alt="image1" src="https://github.com/user-attachments/assets/8d5391a1-d1c4-4b55-a92f-e634da78fa39" />
+<img width="3840" height="1916" alt="image1" src="https://github.com/d3do-23/cvelist/blob/main/gpt_academic/image1.png" />
 
 
 **Evidence of successful access to an internal service:**
 
-<img width="1040" height="92" alt="image2" src="https://github.com/user-attachments/assets/413c120e-d021-4ef3-84a8-9d44491a9247" />
+<img width="1040" height="92" alt="image2" src="https://github.com/d3do-23/cvelist/blob/main/gpt_academic/image2.png" />
 
 
 **Demonstration of making an arbitrary external request (e.g., to Baidu) using an online deployment of the project:**
 
-<img width="3840" height="2074" alt="image3" src="https://github.com/user-attachments/assets/e19402d3-385d-4ae5-9045-56500e49c6be" />
+<img width="3840" height="2074" alt="image3" src="https://github.com/d3do-23/cvelist/blob/main/gpt_academic/image3.png" />
 
 ---
 
@@ -115,10 +115,10 @@ The vulnerable `get_files_from_everything` function is used by multiple plugins 
 
 1.  Enter a URL pointing to an internal service (e.g., `http://127.0.0.1:5000`) in the input field.
 2.  Click the "Batch Translate PDF Documents" plugin button to send the request.
-<img width="3840" height="1916" alt="image4" src="https://github.com/user-attachments/assets/6fbc08cc-512a-4bf8-93e3-2ce28f44b35d" />
+<img width="3840" height="1916" alt="image4" src="https://github.com/d3do-23/cvelist/blob/main/gpt_academic/image4.png" />
 
 **Evidence of successful access to an internal service:**
-<img width="1098" height="170" alt="image5" src="https://github.com/user-attachments/assets/388207b5-a14d-4e93-9c68-418d9a79af54" />
+<img width="1098" height="170" alt="image5" src="https://github.com/d3do-23/cvelist/blob/main/gpt_academic/image5.png" />
 
 ---
 
